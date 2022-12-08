@@ -80,7 +80,7 @@ The repo contains details of all my data science projects.
 ## Machine Learning Projects
 <hr>
 
-https://jovian.ml/raghu-rayirath/walmart-store-sales-forecasting-v4/v/1&cellId=162
+<iframe src="https://jovian.ai/embed?url=https://jovian.ai/raghu-rayirath/walmart-store-sales-forecasting-v4/v/1&cellId=162" title="Jovian Viewer" height="185" width="100%" style="margin 0 auto; max-width: 800px;" frameborder="0" scrolling="auto"></iframe>
 
 
     
