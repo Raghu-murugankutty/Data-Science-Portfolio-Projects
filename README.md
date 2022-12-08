@@ -105,8 +105,11 @@ The repo contains details of all my data science projects.
     - Machine learning models: Random Forest regressor, XGBoost regressor
     - A gradient boosting decision tree model with RMSE obtained 3.23. 
     - This model was entered into the Kaggle competition and placed in the top 30% of the leaderboard.
+    - Eg: Please find below the snapshot of learning rate parameter tuning.
+    - <img width="490" alt="image" src="https://user-images.githubusercontent.com/41443395/206457525-df7a07e1-27b3-4c03-a883-c20c3e5b9ca6.png">
+    
 <hr>
-    - 
+
 
 
 
