@@ -96,7 +96,17 @@ The repo contains details of all my data science projects.
 
 <hr>
 
-
+ - New York City Taxi Fare Prediction ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.org/github/Raghu-murugankutty/Machine-Learning-Projects-With-Python/blob/main/New%20York%20City%20Taxi%20Fare%20Prediction%20_%20Random%20forest%20_%20XGB.ipynb)):
+    - Problem Statement: The dataset contains the record of taxi trips in New York City. Our objective is to create a model that will accurately estimate the fare amounts of trips in the test dataset. Accuracy is measured by the root-mean-square error.
+    - Dataset: The dataset contains 5.5 million observations and 8-features (fare_amount , pickup_longitude , pickup_latitude, dropoff_longitude    dropoff_latitude, passenger_count, etc.) of taxi trips in New York City.
+    - pre-processed data from over 10% of the 5.5 million records with over 8-features to accurately estimate the fare amounts of taxi trips.
+    - performed data cleansing, data imputation, encoding, scaling, and feature engineering to improve the model's performance and reduce the loss.
+    - Libraries used: Pandas, Numpy, Sklearn, Matplotlib, and Seaborn. To fully comprehend the data, use Plotly to visualise it and its features.
+    - Machine learning models: Random Forest regressor, XGBoost regressor
+    - A gradient boosting decision tree model with RMSE obtained 3.23. 
+    - This model was entered into the Kaggle competition and placed in the top 30% of the leaderboard.
+<hr>
+    - 
 
 
 
