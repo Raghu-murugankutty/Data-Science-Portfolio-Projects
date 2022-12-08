@@ -77,6 +77,8 @@ The repo contains details of all my data science projects.
 
 <hr>
 
+## Machine Learning Projects
+<hr>
     
     
     
