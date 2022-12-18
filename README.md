@@ -1,7 +1,9 @@
 # Data-Science-Portfolio-Projects
 The repo contains details of all my data science projects. 
 
+<hr>
 
+![](https://www.imtonline.com/wp-content/themes/astra/assets/landing-page/images/banner_img.jpg)
 
 <hr>
 
