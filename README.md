@@ -4,7 +4,7 @@ The repo contains details of all my data science projects.
 
 
 <hr>
-# `Deep Learning Projects`
+# Deep Learning Projects
 <hr>
 
  - ## Training Generative Adversarial Networks (GANs) | PyTorch | Generative Modeling ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.org/github/Raghu-murugankutty/Deep-Learning-/blob/main/Training%20Generative%20Adversarial%20Networks%20%28GANs%29%20in%20PyTorch.ipynb)):
@@ -30,7 +30,7 @@ To achive this,I used the ConvTranspose2d layer from PyTorch, which is performs 
     - <img width="464" alt="image" src="https://user-images.githubusercontent.com/41443395/208290414-89ad07c8-2937-482c-a7b6-de8b92d4bd1a.png">
 
 <hr>
-# `Machine Learning Projects`
+# Machine Learning Projects
 <hr>
 
  - ## Walmart store sales forecasting | Random Forest | XGBoost | Hyper parameter tuning ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://jovian.ai/raghu-rayirath/walmart-store-sales-forecasting-v4)):
@@ -64,7 +64,7 @@ To achive this,I used the ConvTranspose2d layer from PyTorch, which is performs 
 <hr>
 
 
-# `Explainatory Data Analysis Using Python`
+# Explainatory Data Analysis Using Python
 
  - ## Zomato Resturant Analysis ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://jovian.ai/raghu-rayirath/zomato-dataset-eda-visualizations-v1)):
     - `Analyzed over 9000 restaurants with over 20 features`.
