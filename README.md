@@ -30,8 +30,6 @@ To achive this,I used the ConvTranspose2d layer from PyTorch, which is performs 
     - <img width="464" alt="image" src="https://user-images.githubusercontent.com/41443395/208290414-89ad07c8-2937-482c-a7b6-de8b92d4bd1a.png">
 
 <hr>
-
-<hr>
 # Machine Learning Projects
 <hr>
 
