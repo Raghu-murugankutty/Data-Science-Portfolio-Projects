@@ -33,17 +33,23 @@ To achive this,I used the ConvTranspose2d layer from PyTorch, which is performs 
 
 <hr>
 
-
- - ## Training Generative Adversarial Networks (GANs) | PyTorch | Generative Modeling ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.org/github/Raghu-murugankutty/Deep-Learning-/blob/main/Training%20Generative%20Adversarial%20Networks%20%28GANs%29%20in%20PyTorch.ipynb)):
-    - `Problem Statement`: The dataset contains over 63,000 cropped anime faces, we are generating fake images from the existing real images using generative adversarial networks (GANs).
-    - `Dataset`: Anime Face Dataset, which consists of over 63,000 cropped anime faces.
-    - `Discriminator Network:`
-    The discriminator takes an image as input, and tries to classify it as "real" or "generated". 
-In this sense, it's like any other neural network. We'll use a convolutional neural networks (CNN) which outputs a single number output for every image. 
-used stride of 2 to progressively reduce the size of the output feature map. 
-    - `Activation function:` Used Leaky ReLU activation for the discriminator.
+ - ## Image classification using ResNets | Regularization | Data Augmentation in PyTorch ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.org/github/Raghu-murugankutty/Deep-Learning-/blob/main/Image%20classification%20using%20ResNets%2C%20Regularization%20and%20Data%20Augmentation%20in%20PyTorch.ipynb)):
+    - `Problem Statement`: The dataset contains over 60,000 images belonging to 10 classes,Image classification using ResNets.
+    - `Dataset`: The dataset contains over 60,000 images belonging to 10 classes. 
+    - `Residual Block:`
+    - <img width="510" alt="image" src="https://user-images.githubusercontent.com/41443395/208294435-d610a010-18ee-46ba-ab05-71d674b7f625.png">
+    - `Convolution Block with ResNet9:`
+    - <img width="510" alt="image" src="https://user-images.githubusercontent.com/41443395/208294492-bc60c300-2986-4262-bba5-b4796fa13712.png">
+    - `One Cycle Learning Rate Policy:`
+    - <img width="510" alt="image" src="https://user-images.githubusercontent.com/41443395/208294535-b3faebb9-45d1-4ebe-8528-2433ba5019a3.png">
+    - `Built Feed Forward neural network(ANN)` and achievied an accurcy of 48%.
+    - `Built Convolutional Neural Network(CNN)` and improved the accuracy till 75%.
+    - <img width="230" alt="image" src="https://user-images.githubusercontent.com/41443395/208294842-4c51b6c7-449d-4b1c-b207-0f9e16bc370a.png">
+    - <img width="268" alt="image" src="https://user-images.githubusercontent.com/41443395/208294918-d307e51a-d6e9-48c2-b3dd-6251c9e0a97f.png">
+    - Applied technique like `Data normalization`, `Data augmentation`, `Batch normalization`, `Learning rate scheduling`, `Weight Decay`, `Gradient clipping`...etc
+    - Using ResNet architecture, I achieved the `accuracy of 90.45%`.
+<hr>
     
-  <hr>
 
 # Machine Learning Projects
 
