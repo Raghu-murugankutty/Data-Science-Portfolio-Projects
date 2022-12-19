@@ -10,7 +10,7 @@ The repo contains details of all my data science projects.
 # Deep Learning Projects
 
 ```diff
-- text in red
+# - text in red
 ```
 
 <hr>
