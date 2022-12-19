@@ -9,6 +9,10 @@ The repo contains details of all my data science projects.
 
 # Deep Learning Projects
 
+```diff
+- text in red
+```
+
 <hr>
 
  - ## Training Generative Adversarial Networks (GANs) | PyTorch | Generative Modeling ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.org/github/Raghu-murugankutty/Deep-Learning-/blob/main/Training%20Generative%20Adversarial%20Networks%20%28GANs%29%20in%20PyTorch.ipynb)):
