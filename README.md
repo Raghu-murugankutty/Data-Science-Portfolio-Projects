@@ -178,7 +178,7 @@ To achive this,I used the ConvTranspose2d layer from PyTorch, which is performs 
 
 <hr>
 
-Power BI Projects 
+# Power BI Projects 
 
 <hr>
 
