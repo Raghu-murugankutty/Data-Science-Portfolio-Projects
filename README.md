@@ -82,6 +82,25 @@ Performing image classification using tranfser learning models.
     - <img width="232" alt="image" src="https://user-images.githubusercontent.com/41443395/208302395-c5ccfdb3-72c1-43b7-8e1f-9a85f03eb879.png">
 
 <hr>
+
+ - ## Regularization of CNN models | Image classification model | PyTorch ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://github.com/Raghu-murugankutty/Deep-Learning-/blob/main/Image_classification_using_CNN%2C_Technique_to_Regularize_Convolutional_Neural_Network.ipynb)):
+    - `Problem Statement`: The dataset contains over 90483 images of fruits or vegitables, we are using CNN to build a classifcation model to predict the class of fruit from a set of 131 classes using PyTorch.
+    - `Dataset`:  The daaset contains 90483 images of fruits or vegitables. 
+    `Training set size`: 67692 images (one fruit or vegetable per image).
+    `Test set size`: 22688 images (one fruit or vegetable per image).
+    `Number of classes`: 131 (fruits and vegetables). Image size: 100x100 pixels.
+    - `Images`:
+    - <img width="503" alt="image" src="https://user-images.githubusercontent.com/41443395/209466991-420b6c77-d7dd-49c1-afbe-c6dc810237a8.png">
+
+    - Model is built on PyTorch along with the implementation of techniques like `Data augmentation`, `Batch normalization`, `learning rate schedule`, `Weight Decay`, `Gradient clipping`, `adam optimizer`, `layer dropouts`, `Minmax pooling` to achieve the best results.
+    - The model is trained and evaluated on GPU using PyTorch built-in `CUDA library`.
+    - <img width="580" alt="image" src="https://user-images.githubusercontent.com/41443395/209466663-b5d2c208-edb4-41a8-862b-5b9dcf1a8828.png">
+    - <img width="580" alt="image" src="https://user-images.githubusercontent.com/41443395/209466675-855b715e-1e41-43de-8419-175f30353f06.png">
+    - `Learning rate with batch no`
+    - <img width="260" alt="image" src="https://user-images.githubusercontent.com/41443395/209466754-5820384d-691b-4808-b918-e09acd0bf51d.png">
+    - `Model achieved the validation accuracy of 99%`.
+
+<hr>
     
 
 # Machine Learning Projects
