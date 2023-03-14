@@ -15,7 +15,9 @@ The repo contains details of all my data science projects.
 
 # Market Segmentation in Insurance | Streamlit Web App
 - `Streamlit application URL`: https://customer-segmmentation-app.onrender.com
+
 - `Streamlit application UI Interface screenshot`
+
 ![image](https://user-images.githubusercontent.com/41443395/224965383-66d6ed94-f848-4f1f-b654-cf489c94c3b1.png)
 
 -`Model Output`
