@@ -7,8 +7,6 @@ The repo contains details of all my data science projects.
 
 <hr>
 
-<hr>
-
 # ML & DL Web Apps
 
 <hr>
