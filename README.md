@@ -37,7 +37,7 @@ I have created a Streamlit Application based on this clustering technique, takin
 
 <hr>
 
- - ## EMAIL/SMAS SPAM CLASSIFICATION | Streamlit Web App | NLP | NLTK ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.org/github/Raghu-murugankutty/Deep-Learning-/blob/main/Training%20Generative%20Adversarial%20Networks%20%28GANs%29%20in%20PyTorch.ipynb)):
+ - ## EMAIL/SMAS SPAM CLASSIFICATION | Streamlit Web App | NLP | NLTK ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://github.com/Raghu-murugankutty/NLP/tree/main/SMS%20SPAM%20CLASSIFICATION)):
     - `Problem Statement`: EMAIL/ SMS spam classification
     - `Dataset`:The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
     - `Voting Classifier method`: It is a machine learning model that combines the predictions of multiple individual models to make a final prediction. It works taking the predictions of each individual model and combining them to produce a final prediction, typically by majority vote.
