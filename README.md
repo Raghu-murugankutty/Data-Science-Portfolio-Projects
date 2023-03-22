@@ -36,15 +36,16 @@ I have created a Streamlit Application based on this clustering technique, takin
 
 
 <hr>
-# EMAIL/SMAS SPAM CLASSIFICATION | Streamlit Web App
-- `Final Model`:
-- `Problem statement`: EMAIL/ SMS spam classification
-- `DataSet`: The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
-- `Voting Classifier method`: It is a machine learning model that combines the predictions of multiple individual models to make a final prediction. It works by taking the predictions of each individual model and combining them to produce a final prediction, typically by majority vote.
+
+ - ## EMAIL/SMAS SPAM CLASSIFICATION | Streamlit Web App | NLP | NLTK ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.org/github/Raghu-murugankutty/Deep-Learning-/blob/main/Training%20Generative%20Adversarial%20Networks%20%28GANs%29%20in%20PyTorch.ipynb)):
+    - `Problem Statement`: EMAIL/ SMS spam classification
+    - `Dataset`:The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
+    - `Voting Classifier method`: It is a machine learning model that combines the predictions of multiple individual models to make a final prediction. It works taking the predictions of each individual model and combining them to produce a final prediction, typically by majority vote.
 ![image](https://user-images.githubusercontent.com/41443395/226836610-d7f09a5f-971a-4c0c-a1e6-21844e026df4.png)
-- `Stacking`:The meta-model takes the predictions of the individual classifiers as input features and learns how to best combine them to make the final prediction. The meta-model can be trained using a variety of techniques, such as cross-validation or hold-out validation.
-- `Streamlit application UI Interface screenshot`
+    - `Stacking`:The meta-model takes the predictions of the individual classifiers as input features and learns how to best combine them to make the final prediction. The meta-model can be trained using a variety of techniques, such as cross-validation or hold-out validation.
+    - `Streamlit application UI Interface screenshot`
 ![image](https://user-images.githubusercontent.com/41443395/226836467-2d87231f-ff1d-4fce-b6c7-54dec17b6154.png)
+
 
 <hr>
 
